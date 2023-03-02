@@ -4,7 +4,7 @@
 - I am a Full-Stack Software Developer with 10+ years of professional experience and high-performing
   engineering skills in MERN Stack using React as a front-end framework and Node.js/Express on the
   server-side. Proficient in all aspects of software design, development, debugging and unit testing
-- My [personal GitHub account](https://github.com/ukasru)
+- My [old GitHub account](https://github.com/ukasru)
 - Welcome to my [LinkedIn](https://www.linkedin.com/in/konstantin-uvarov/) page for more information
 
 
